@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "4618c76fdd6d4cda444d25ddd8bb6fe1"
+build_time: [1540740065, 154424000]
+inputs:
+  "/Users/murali-mac/Desktop/repo/I Am/I Am/ViewController.swift": [1540708504, 0]
+  "/Users/murali-mac/Desktop/repo/I Am/I Am/AppDelegate.swift": [1540708504, 0]
